@@ -1,0 +1,18 @@
+Candy Crush :
+  Grid :
+  ☐ create a board
+  ☐ generate random colored squares (candies) in JS
+  ☐ add to the DOM
+  Logic :
+    Moves :
+    ☐ drag and drop
+    ☐ disable switching unvalid colors
+    ☐ check for valid matches
+    ☐ Move candies down when match
+    ☐ Generate new candies (auto match ?) in correct number
+    Compute :
+    ☐ find the length of the match (min 3, then 4, 5)
+    ☐ rows and columns
+    ☐ check the entire board when match (search for other matches)
+    ☐ if new matches, compute from bottom to top
+    ☐ find how to compute the matches on the grid (from bottom to top, row then column)

@@ -1,0 +1,21 @@
+body {
+  height: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.border {
+  width: 620px;
+  height: 620px;
+  background-color: royalblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid {
+  width: 600px;
+  height: 600px;
+  background-color: plum;
+}
