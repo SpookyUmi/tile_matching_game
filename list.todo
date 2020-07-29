@@ -1,6 +1,6 @@
 Candy Crush :
   Grid :
-  ☐ create a board
+  ☐ create a board (8*60px squares)
   ☐ generate random colored squares (candies) in JS
   ☐ add to the DOM
   Logic :
